@@ -1,0 +1,13 @@
+commandes Ubuntu utiles
+
+empty swap
+	sudo swapoff -a
+	sudo swapon -a
+	
+augmenter le nombre de watch (p. ex. React)
+	sudo sysctl fs.inotify.max_user_watches=524288
+
+serveur Apache
+	sudo service apache2 restart
+	sudo /usr/sbin/apache2ctl start
+	sudo /usr/sbin/apache2ctl stop
