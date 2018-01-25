@@ -1,5 +1,4 @@
 # test
 test de git
-cette deuxième ligne est là pour faire un commit !
-
-Cette ligne a été rajoutée depuis GitHub !
+Ce repository ne sert à rien. Il est là juste pour le cours Open Classrooms sur GitHub.
+Quand j'aurai fini, je ferai quelque chose de mieux :-)
