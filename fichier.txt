@@ -1,2 +1,5 @@
 Ceci est le deuxième fichier ajouté dans mon repo
-Ce fichier est super utile.
+
+Ce fichier est super utile pour voir comment git fonctionne.
+Mais ne sert à rien d'autre.
+
